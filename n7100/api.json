@@ -31,6 +31,16 @@
     "changes": "",
     "incremental": ""
     },
+    {
+    "url": "http://downloads.codefi.re/houstonn/tilak/cm-13.0-20160119-tilak-n7100.zip",
+    "timestamp": "1453203456",
+    "api_level": "23",
+    "md5sum": "603ba74f9db2456758c47829d4f6b6ca",
+    "filename": "cm-13.0-20160119-tilak-n7100.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
   ],
  "error": null
 }
